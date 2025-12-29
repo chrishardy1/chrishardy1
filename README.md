@@ -9,18 +9,18 @@
 <h2>📺 Certifications</h2>
 
 - [CompTIA A+ CE](https://www.youtube.com/watch?v=a83ASGp_V_s)
-- [CompTIA Security+ CE](https://www.youtube.com/watch?v=a83ASGp_V_s)
+- [CompTIA Security+ CE](https://www.youtube.com/watch?v=a8398SGp_V_s)
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Tutorial Active Directory home Lab](https://www.youtube.com/watch?v=a83ASGp_V_s)
+- [Tutorial Active Directory home Lab](https://www.youtube.com/watch?v=a83AiGp_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="christohardy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
-[linkedin]: www.linkedin.com/in/christophardy
+[linkedin]: (www.linkedin.com/in/christophardy)
 
