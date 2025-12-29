@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- [Active Directory Home Lab]([(https://github.com/chrishardy1/Active-Directory-Lab/tree/main)])
+- [Active Directory Home Lab]((https://github.com/chrishardy1/Active-Directory-Lab))
 - [SOC+ SIEM Home Azure Lab](https://github.com/chrisbhardy1/Algorithms-Practice)
 - [File Integerity Monitoring Program](https://github.com/chrisbhardy1/Algorithms-Practice)
   
