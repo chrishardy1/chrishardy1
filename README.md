@@ -4,7 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/chrishardy1/Active-Directory-Lab)
 - [SOC+ SIEM Home Azure Lab](https://github.com/chrishardy1/SOC-SIEM/tree/main)
-- [File Integerity Monitoring Program](https://github.com/chrisbhardy1/Algorithms-Practice)
+- [File Integerity Monitoring Program](https://github.com/chrishardy1/File-Integrity-Monitor-program/tree/main)
   
 <h2>📺 Certifications</h2>
 
